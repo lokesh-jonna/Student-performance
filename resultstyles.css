@@ -1,3 +1,29 @@
-*{
-  
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0 auto;
+    width: 80%;
+}
+
+/* Hover effects */
+img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
 }
