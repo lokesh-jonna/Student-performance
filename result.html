@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Performance Results</title>
+</head>
+<body>
+    <h1>Performance Results for {{ name }}</h1>
+
+    <h2>Attendance Plot</h2>
+    <img src="data:image/png;base64,{{ attendance_plot }}" alt="Attendance Plot">
+
+    <h2>Suggestions</h2>
+    <p>{{ suggestions }}</p>
+
+    <h2>Subject-wise Plots</h2>
+{% for i in range(subject_names|length) %}
+    {% set subject = subject_names[i] %}
+    {% set plot_path = 'Subject ' + (i+1)|string + '_plot.png' %}
+    <h3>{{ subject }}</h3>
+    <img src="data:image/png;base64,{{ generate_plot([80, 20], plot_type='pie') }}" alt="{{ subject }} Plot">
+{% endfor %}
+
+
+    <h2>Overall Performance Histogram</h2>
+    <img src="data:image/png;base64,{{ overall_performance_plot }}" alt="Overall Performance Histogram">
+</body>
+</html>
