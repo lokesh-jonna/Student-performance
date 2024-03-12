@@ -10,7 +10,7 @@ Student Performance Analyzer is a web application built with Flask that allows u
 
 ## Introduction
 
-This web application provides an interface for users to upload student performance data and view various analyses and visualizations based on that data. It helps educators and administrators understand student progress and identify areas for improvement.
+This web application provides an interface for users to upload student performance data and view various analyses and visualizations based on that data. It helps students to understand progress and identify areas for improvement.
 
 ## Installation
 
