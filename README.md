@@ -40,7 +40,7 @@ To run the application locally, follow these steps:
 
 ## Usage
 
-1. Upload student performance data.
+1. Upload student performance data such as name,age and marks then submit.
 2. Explore various analyses and visualizations, such as grade distributions, performance trends, and individual student profiles.
 
 
