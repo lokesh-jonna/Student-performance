@@ -46,12 +46,13 @@ To run the application locally, follow these steps:
 ## Live 
 
 [visit](https://jlokesh.pythonanywhere.com/)
-
+<div style="display:flex">
 <div style="display: inline-block;">
     <img src="Student_form.png" style="width: 50%; height: auto;">
 </div>
 <div style="display: inline-block;">
     <img src="student_output.png" style="width: 50%; height: auto;">
+</div>
 </div>
 
 ## Credits
