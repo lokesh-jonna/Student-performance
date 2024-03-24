@@ -45,7 +45,7 @@ To run the application locally, follow these steps:
 
 ## Live 
 
-[!visit](https://jlokesh.pythonanywhere.com/)
+[visit](https://jlokesh.pythonanywhere.com/)
 
 
 ## Credits
