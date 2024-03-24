@@ -43,6 +43,10 @@ To run the application locally, follow these steps:
 1. Upload student performance data such as name,age and marks then submit.
 2. Explore various analyses and visualizations, such as grade distributions, performance trends, and individual student profiles.
 
+## Live 
+
+[!visit](https://jlokesh.pythonanywhere.com/)
+
 
 ## Credits
 
