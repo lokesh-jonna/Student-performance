@@ -47,7 +47,8 @@ To run the application locally, follow these steps:
 
 [visit](https://jlokesh.pythonanywhere.com/)
 
-
+<img src="Student_form.png">
+<img src="Student_output.png">
 ## Credits
 
 This project was created by Lokesh and Nani as part of personal intereset.
