@@ -47,10 +47,13 @@ To run the application locally, follow these steps:
 
 [visit](https://jlokesh.pythonanywhere.com/)
 
-<div>
-<img src="Student_form.png">
-<img src="student_output.png">
+<div style="display: inline-block;">
+    <img src="Student_form.png" style="width: 50%; height: auto;">
 </div>
+<div style="display: inline-block;">
+    <img src="student_output.png" style="width: 50%; height: auto;">
+</div>
+
 ## Credits
 
 This project was created by Lokesh and Nani as part of personal intereset.
