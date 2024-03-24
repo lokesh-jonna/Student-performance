@@ -49,10 +49,10 @@ To run the application locally, follow these steps:
 
 <div class="row">
   <div class="column">
-    <img src="Student_form.png" alt="Student_details" style="width:100%">
+    <img src="Student_form.png" alt="Student_details" style="width:50%">
   </div>
   <div class="column">
-    <img src="student_output.png" alt="Output" style="width:100%">
+    <img src="student_output.png" alt="Output" style="width:50%">
   </div>
 </div>
 
