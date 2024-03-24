@@ -47,9 +47,13 @@ To run the application locally, follow these steps:
 
 [visit here ✨](https://jlokesh.pythonanywhere.com/)
 
-<div style="display: flex;">
-    <img src="Student_form.png" style="width: 50%; height: auto;">
-    <img src="student_output.png" style="width: 50%; height: auto;">
+<div class="row">
+  <div class="column">
+    <img src="Student_form.png" alt="Student_details" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="student_output.png" alt="Output" style="width:100%">
+  </div>
 </div>
 
 
